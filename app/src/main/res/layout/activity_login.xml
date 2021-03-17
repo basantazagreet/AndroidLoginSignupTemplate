@@ -26,7 +26,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=" Username"
+        android:text="Username"
         android:textColor="#000"
         android:textSize="22dp"
         android:layout_marginTop="35dp"
@@ -37,6 +37,7 @@
         android:textCursorDrawable="@null"
         android:background="@drawable/etfocus"
         android:drawableLeft="@drawable/ic_profile"
+        android:drawablePadding="10dp"
 
 
         />
@@ -58,6 +59,7 @@
         android:background="@drawable/etfocus"
         android:paddingVertical="7sp"
         android:drawableLeft="@drawable/ic_lock"
+        android:drawablePadding="10dp"
         />
 
     <Button
