@@ -41,7 +41,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Name"
+                android:hint="Name"
                 android:textColor="#000"
                 android:textSize="22dp"
                 android:layout_marginTop="35dp"
@@ -55,7 +55,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Email Address"
+                android:hint="Email Address"
                 android:textColor="#000"
                 android:textSize="22dp"
                 android:layout_marginTop="35dp"
@@ -70,7 +70,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Address"
+                android:hint="Address"
                 android:textColor="#000"
                 android:textSize="22dp"
                 android:layout_marginTop="35dp"
@@ -84,7 +84,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Phone Number"
+                android:hint="Phone Number"
                 android:textColor="#000"
                 android:textSize="22dp"
                 android:layout_marginTop="35dp"
@@ -99,7 +99,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Choose Username"
+                android:hint="Choose Username"
                 android:textColor="#000"
                 android:textSize="22dp"
                 android:layout_marginTop="35dp"
